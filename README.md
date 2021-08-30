@@ -1,6 +1,6 @@
 ### What's up?!
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Deep Learning
 - 📫 Reach me on: annalgs@id.uff.br |   [Linkedin](https://www.linkedin.com/in/annalu-gomes/)
 
 ![annalug's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalug&show_icons=true&theme=dark)
